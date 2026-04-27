@@ -26,6 +26,7 @@ The dataset contains extensive annotations on the following topics:
 
 The intention is for this dataset to be of use for research purposes when completing 2D and 3D gaze following and object detection tasks
 
+## Packages
 
 Packages have been uploaded to Google Drive due to the files being large for GitHub. [Packages](https://drive.google.com/drive/folders/1JWrANug9ucc4BbvypZ3UCfSsb0td4O1D?usp=drive_link) 
 
